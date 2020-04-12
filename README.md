@@ -1,5 +1,7 @@
 # MyPortfolio  - Responsive design
-Credits - Lynda - Christina Truong
+
+Credits - Lynda - Christina Truong.
+
 I completed HTML and CSS learning on Linkedin learning portal. I found this course CSS Essential Training created by Christina Truong.
 The training uses the trainers own portfolio as an example to build simple website focused mainly on CSS.
 Even though my portofolio is identical to trainer's portfolio, I have learned concept and practiced multiple times to create my own.
